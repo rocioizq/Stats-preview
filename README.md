@@ -4,3 +4,8 @@
 
 ## Welcome! 👋
 
+## Links 
+Solution URL: https://www.frontendmentor.io/solutions/stats-preview-solution-TZof6CbFEY
+
+Live Site URL: https://stats-preview-beryl-nu.vercel.app/
+
